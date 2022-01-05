@@ -1,7 +1,17 @@
 
 function App() {
   return (
-    <h1>Prueba de git</h1>
+    <div>
+      <h1>Prueba de git</h1>
+      <nav>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </nav>
+    </div>
   );
 }
 
